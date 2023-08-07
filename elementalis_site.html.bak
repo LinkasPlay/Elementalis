@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+<link rel="stylesheet" href="elementalis_css.css">
+</head>
+<body>
+
+<h1><br> Elementalis </h1>
+<p> Elementalis is a minecraft bedrock server with a custom mod and a custom plugin. <br> Our discord : https://discord.gg/6J7EENcH5C </p>
+<ul>
+	<li><a class="active" href="elementalis_site.html">Home</a></li>
+	<li><a href="elementalis_server.html">The server</a></li>
+	<li><a href="elementalis_server.html">The mod</a></li>
+	<li><a href="elementalis_server.html">The plugin</a></li>
+	<li><a href="elementalis_server.html">The lore</a></li>
+	<li style="float:right"><a href="elementalis_server.html">The team</a></li>
+</ul>
+</body>
+</html>
