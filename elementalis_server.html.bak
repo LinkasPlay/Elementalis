@@ -6,8 +6,8 @@
 <body>
 
 <h1> <br> About the server </h1>
-<p>Elementalis is hosted on an external server by Jofo, accordingli there may be lag and ocasional crashes, 
-in addition to the daily reboot at 2am UTC. This may be a bit janki, however we did this in order to have full control on the ifrastructure, being
+<p>Elementalis is hosted on an external server by JoJo, accordinglY there may be lag and ocasional crashes, 
+in addition to the daily reboot at 2am UTC. This may be a bit jankY, however we did this in order to have full control on the ifrastructure, being
 able to easily update the server to new versions of minecraft or new versions of the mod/plugin. <br> <p> <br>
 <h2> How to join </h2>
 <p> I suggest you to follow <a href="https://apexminecrafthosting-com.webpkgcache.com/doc/-/s/apexminecrafthosting.com/how-to-join-a-bedrock-edition-server-on-xbox-switch/" >
@@ -28,10 +28,10 @@ If you have issues connecting to the server, contact one of the moderators on di
 <ul>
 	<li><a href="elementalis_site.html">Home</a></li>
 	<li><a class="active" href="elementalis_server.html">The server</a></li>
-	<li><a href="elementalis_server.html">The mod</a></li>
-	<li><a href="elementalis_server.html">The plugin</a></li>
-	<li><a href="elementalis_server.html">The lore</a></li>
-	<li style="float:right"><a href="elementalis_server.html">The team</a></li>
+	<li><a href="elementalis_mod.html">The mod</a></li>
+	<li><a href="elementalis_plugin.html">The plugin</a></li>
+	<li><a href="elementalis_lore.html">The lore</a></li>
+	<li style="float:right"><a href="elementalis_team.html">The team</a></li>
 </ul>
 </body>
 </html>
