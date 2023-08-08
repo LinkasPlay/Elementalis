@@ -114,12 +114,83 @@
 <br>Be careful, the bosses are pretty strong so you will want to be with allies. in addition to that, you only get one lifen per boss,
 if you die during the fight, you won't be abble to join it back and you will loose your stuff ( unlees the boss was part of an event).
 <h4> Basics </h4><br>
-<br> Here is the list of every biomes, every structures and every totems crafts. (NOT AVAIBLE RIGHT NOW) </p><br>
+<br> <p>Here is the list of every biomes, every structures and every totems crafts. (NOT AVAIBLE RIGHT NOW) </p><br>
 <h2> Fire </h2><br>
 <p>◆ Volcano<br>
 ◾ Found in the overwold. It is mostly made of blackstone and dead grass, you may find obsidian on the tallest volcanoes.<br>
-◾ You may encounter hell cows, demon eyes, wither squeletons,  </p><br>
+◾ You may encounter hell cows, demon eyes, striders and wither squeletons.<br>
+◆ Hellish tower<br>
+◾ This structure is usually found in the volcanoes craters, however it sometimes appears in the nether lava lakes.<br>
+◾ You can loot there ignisium, diamonds, gold and fire fragments.<br></p>
+   <img src="images/volcano.png" alt="Volcano" style="width:256px;height:128px;margin:10;">
+   <img src="images/hellish_tower.png" alt="Hellish tower" style="width:256px;height:128px;margin:10;">
+   <img src="images/fire_totem.png" alt="Fire totem craft" style="width:256px;height:128px;margin:10;">
+   
+<h2> Water </h2><br>
+<p>◆ Void oasis<br>
+◾ <br>
+◾ <br>
+◆ Submerged castle<br>
+◾ <br>
+◾ <br></p>
+   <img src="images/void_oasis.png" alt="Void oasis" style="width:256px;height:128px;margin:10;">
+   <img src="images/submerged_castle.png" alt="Submerged castle" style="width:256px;height:128px;margin:10;">
+   <img src="images/water_totem.png" alt="Water totem craft" style="width:256px;height:128px;margin:10;">
+   
+<h2> Ice </h2><br>
+<p>◆ Frozen wastelands<br>
+◾ <br>
+◾ <br>
+◆ Lost fortress<br>
+◾ <br>
+◾ <br></p>
+   <img src="images/frozen_wasteland.png" alt="Frozen wastelands" style="width:256px;height:128px;margin:10;">
+   <img src="images/lost_fortress.png" alt="Lost fortress" style="width:256px;height:128px;margin:10;">
+   <img src="images/ice_totem.png" alt="Ice totem craft" style="width:256px;height:128px;margin:10;">
 
+<h2> Earth </h2><br>
+<p>◆ Underground desert<br>
+◾ <br>
+◾ <br>
+◆ Ancient pyramid<br>
+◾ <br>
+◾ <br></p>
+   <img src="images/desert.png" alt="Underground desert" style="width:256px;height:128px;margin:10;">
+   <img src="images/pyramid.png" alt="Ancient pyramid" style="width:256px;height:128px;margin:10;">
+   <img src="images/earth_totem.png" alt="Earth totem craft" style="width:256px;height:128px;margin:10;">
+   
+<h2> Air </h2><br>
+<p>◆ Floating islands<br>
+◾ <br>
+◾ <br>
+◆ Sky armada<br>
+◾ <br>
+◾ <br></p>
+   <img src="images/floating_islands.png" alt="Floating islands" style="width:256px;height:128px;margin:10;">
+   <img src="images/sky_armada.png" alt="Sky armada" style="width:256px;height:128px;margin:10;">
+   <img src="images/air_totem.png" alt="Air totem craft" style="width:256px;height:128px;margin:10;">
+   
+<h2> Electricty </h2><br>
+<p>◆ Electric toundra<br>
+◾ <br>
+◾ <br>
+◆ Thunder tornado<br>
+◾ <br>
+◾ <br></p>
+   <img src="images/electric_toundra.png" alt="Electric toundra" style="width:256px;height:128px;margin:10;">
+   <img src="images/tornado.png" alt="Thunder tornado" style="width:256px;height:128px;margin:10;">
+   <img src="images/electric_totem.png" alt="Electric totem craft" style="width:256px;height:128px;margin:10;">
+   
+<h2> Light </h2><br>
+<p>◆ The palace<br>
+◾ <br>
+◾ <br>
+◆ Giant's house<br>
+◾ <br>
+◾ <br></p>
+   <img src="images/palace.png" alt="The palace" style="width:256px;height:128px;margin:10;">
+   <img src="images/giant.png" alt="Giant's house" style="width:256px;height:128px;margin:10;">
+   <img src="images/none.png" alt="Light totem craft" style="width:256px;height:128px;margin:10;">
 
 <h4> Bosses list </h4><br>
 <h2> Fire breather </h2><br>
@@ -171,7 +242,8 @@ being usually the magnus opus of a warrior's carrer seems to congrats them with 
 ◾ Unknown <br>
 ◾ Unknown </p><br>
 <h2 class="comic"> classified </h2><br>
-<p class="comic">◆ This specimen appeared when after the creation a reality rift caused by the merge of every classic bosses loot, souls, netherite and rainbow.
+<p class="comic">◆ This specimen appeared when after the creation a reality rift caused by the merge of 
+every classic bosses loot, souls, netherite and every elemental ores.
  However the specimen created is too dangerous to study, trying to make us suffer because we k"illed it's brother".<br>
 ◾ DO NOT SUMMON IN ANY CIRCONSTANCES. IT'S HIGH SPEED, STRENGHT AND HEALTH MAKE THIS SPECIMEN ALMOST INVICIBLE.<br>
 ◾ Unknown </p><br>
