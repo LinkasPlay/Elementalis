@@ -6,21 +6,21 @@
 <body>
 
 <h1> <br> About the server </h1>
-<p>Elementalis is hosted on an external server by JoJo, accordinglY there may be lag and ocasional crashes, 
-in addition to the daily reboot at 2am UTC. This may be a bit jankY, however we did this in order to have full control on the ifrastructure, being
+<p>Elementalis is hosted on an external server by JOJO, accordingly there may be lag and ocasional crashes, 
+in addition to the daily reboot at 2am UTC. This may be a bit janky, however we did this in order to have full control on the infrastructure, being
 able to easily update the server to new versions of minecraft or new versions of the mod/plugin. <br> <p> <br>
 <h2> How to join </h2>
 <p> I suggest you to follow <a href="https://apexminecrafthosting-com.webpkgcache.com/doc/-/s/apexminecrafthosting.com/how-to-join-a-bedrock-edition-server-on-xbox-switch/" >
 this very good guide on how to join <a/>. <br>
-<br>If you are too lazy to read it, here's a sumary : <br><br>
+<br>If you are too lazy to read it, here's a summary : <br><br>
 <span style="text-decoration-line: underline;">If you're on PC or Mobile :</span> <br>
-You just need to add an external server with the IP 51.210.235.6, you don't need to change the port.
+You just need to add an external server with the IP found on the discord, you don't need to change the port.
 <br><br>
 <span style="text-decoration-line: underline;">If you're on console :</span>
 <br>1) Change your DNS Setting from Automatic to Manual (if it were already on Manual take note of the Primary and Secondary DNS if you need to use your old settings)
 <br>2) Set the Primay DNS to 104.238.130.180 and the Secondary DNS to 0001.0001.0001.0001
 <br>3) Join any Minecraft server and you should be in an empty world with a server list.
-<br>4) Add an external server with the IP 51.210.235.6 and don't change the port.
+<br>4) Add an external server with the IP found on the discord and don't change the port.
 <br><br>
 You can now play on the Elementalis Server !
 <br><br>

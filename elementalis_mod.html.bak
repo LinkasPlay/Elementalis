@@ -14,8 +14,8 @@
 	◾ Infernal flint and steel : a regular flint and steel, however it place lava instead of fire<br>
 	► Fire axe ( only for fire elementals ) : a strong axe with fire aspect<br>
 	<img src="images/craft_ignisium_eye.png" alt="Ignisium eye craft" style="width:256px;height:128px;margin:10;"> 
-	<img src="images/craft_ignisium_eye.png" alt="Ignisium eye craft" style="width:256px;height:128px;margin:10;"> 
-	<img src="images/craft_ignisium_eye.png" alt="Ignisium eye craft" style="width:256px;height:128px;margin:10;"> 
+	<img src="images/none.png" alt="Infernal flint and steel craft" style="width:256px;height:128px;margin:10;"> 
+	<img src="images/craft_fire_axe.png" alt="Fire axe craft" style="width:256px;height:128px;margin:10;"> 
 	<br>
    ◆ Demon eye : an hostile mob found in hot areas, it fly towards you before exploding like a creeper<br>
    ◆ Hell cow : a pasive mob found in hot areas, it give lava when a bucket is used on it<br>
@@ -25,13 +25,14 @@
 	◾ Poseidon chestplate : a very strong armor making you invicible, however it has very low durability <br>
 	◾ Infinity bucket : a bucket which never get full<br>
 	► Flooding boots ( only for water elementals ) : create a 3x3 water block around you when worn<br>
+	<img src="images/aquatine.png" alt="Aquatine craft" style="width:256px;height:128px;margin:10;">
+    <img src="images/craft_poseidon.png" alt="Poseidon chestplate craft" style="width:256px;height:128px;margin:10;">
+    <img src="images/infinity_bucket.png" alt="Infinity bucket craft" style="width:256px;height:128px;margin:10;">
+	<img src="images/none.png" alt="Flooding boots craft" style="width:256px;height:128px;margin:10;">
+    <br>
    ◆ Water slime : an hostile mob summoned when a water slime bucket is used, it's a strong slime which drop water slime balls<br>
-   <img src="images/aquatine.png" alt="Aquatine craft" style="width:256px;height:128px;margin:10;">
-   <img src="images/craft_poseidon.png" alt="Poseidon chestplate craft" style="width:256px;height:128px;margin:10;">
-   <img src="images/craft_poseidon.png" alt="Poseidon chestplate craft" style="width:256px;height:128px;margin:10;">
-   <br>
 	◾ Water slime balls : can be used to craft water pants which negates every fall damages <br>
-   ◆ yes <br>
+   ◆ Factice : A very fast type of fish made of aquatine. <br>
 	</p>
 <h2> Ice </h2><br>
 <p>◆ Crystalum : an ore found in icebergs and high up in mountains<br>
@@ -39,8 +40,8 @@
 	◾ Frozen trap : if stepped on, give very strong slowness and blindness<br>
 	► Icy cake ( only for ice elementals ) : froze every blocks in a 30x30 area when eaten<br>
 	<img src="images/craft_frozen_shovel.png" alt="Frozen shovel craft" style="width:256px;height:128px;margin:10;">
-    <img src="images/craft_poseidon.png" alt="Poseidon chestplate craft" style="width:256px;height:128px;margin:10;">
-    <img src="images/craft_poseidon.png" alt="Poseidon chestplate craft" style="width:256px;height:128px;margin:10;">
+    <img src="images/none.png" alt="Frozen trap craft" style="width:256px;height:128px;margin:10;">
+    <img src="images/none.png" alt="Icy cake craft" style="width:256px;height:128px;margin:10;">
     <br>
    ◆ Arctic eye : an hostile mob found in cold areas, it float aroun shooting frozen lasers<br>
    ◆ Frozen chicken : a chicken but frozen<br>
@@ -52,7 +53,7 @@
 	► Dwarf pickaxe ( only for earth elementals ) : an unbreakable pickaxe, better than netherite <br>
 	<img src="images/craft_cobble.png" alt="Compressed cobblestone craft" style="width:256px;height:128px;margin:10;">
     <img src="images/craft_drill.png" alt="Drill craft" style="width:256px;height:128px;margin:10;">
-    <img src="images/craft_poseidon.png" alt="Poseidon chestplate craft" style="width:256px;height:128px;margin:10;">
+    <img src="images/none.png" alt="Entity detector craft" style="width:256px;height:128px;margin:10;">
 	<img src="images/craft_dwarf_pickaxe.png" alt="Dwarf pickaxe craft" style="width:256px;height:128px;margin:10;">
     <br>
    ◆ Mimic : an hostile mob which hide as minerals, if give blindness and weakness to everyone near it<br>
@@ -65,7 +66,7 @@
 	► Wind shield ( only for air elementals ) : boots which make everything around you fly when worn<br>
 	<img src="images/craft_knockback_ball.png" alt="Knockback ball craft" style="width:256px;height:128px;margin:10;">
     <img src="images/craft_ventuma_potion.png" alt="Ventuma potion craft" style="width:256px;height:128px;margin:10;">
-    <img src="images/craft_poseidon.png" alt="Poseidon chestplate craft" style="width:256px;height:128px;margin:10;">
+   <img src="images/none.png" alt="Wind shield craft" style="width:256px;height:128px;margin:10;">
     <br>
    ◆ Caelum : an hostile mob found on the floating isles, it's pretty much a blaze which throw knockback balls<br>
    ◆ Lil torny : a pasive mob found in the floating isles, it give levitation and slow falling to whoever get close<br>
@@ -89,7 +90,7 @@
 	► Light boots ( only for light elementals ) : lights up the area around you when worn<br>
 	<img src="images/craft_luxime.png" alt="Luxime craft" style="width:256px;height:128px;margin:10;">
     <img src="images/craft_golden_mask.png" alt="Golden mask craft" style="width:256px;height:128px;margin:10;">
-    <img src="images/craft_poseidon.png" alt="Poseidon chestplate craft" style="width:256px;height:128px;margin:10;">
+    <img src="images/none.png" alt="Luxime light craft" style="width:256px;height:128px;margin:10;">
 	<img src="images/craft_dwarf_pickaxe.png" alt="Dwarf pickaxe craft" style="width:256px;height:128px;margin:10;">
     <br>
 	◆ Rainbow star : crafted from rainbow fragments, found in the end and luxime<br>
@@ -106,9 +107,78 @@
 <p>◆ WORK IN PROGRESS<br>
 	◾ <br>
 	◾</p><br><br>
+	<h3> Bosses </h3>
+	<h4> How it works </h4><br>
+<p>In order to summon any boss, you will need to gather two element fragments, those can be found in the structure linked to the boss.
+<br>Once you obtained the fragments, you will have to craft the boss' totem and use it on the boss summoner, which can be found in the boss arena.
+<br>Be careful, the bosses are pretty strong so you will want to be with allies. in addition to that, you only get one lifen per boss,
+if you die during the fight, you won't be abble to join it back and you will loose your stuff ( unlees the boss was part of an event).
+<h4> Basics </h4><br>
+<br> Here is the list of every biomes, every structures and every totems crafts. (NOT AVAIBLE RIGHT NOW) </p><br>
+<h2> Fire </h2><br>
+<p>◆ Volcano<br>
+◾ Found in the overwold. It is mostly made of blackstone and dead grass, you may find obsidian on the tallest volcanoes.<br>
+◾ You may encounter hell cows, demon eyes, wither squeletons,  </p><br>
+
+
+<h4> Bosses list </h4><br>
+<h2> Fire breather </h2><br>
+<p>◆ A lot of legends were born with this specimen, usually it is said that this is the ghost of one of the fire titans who once created 
+the underworld and gave to earthling the fire element. However it's just a ghast who spent it's entire life under the lava,
+accumulating ignisium in it's system to extend it's life time and grow in size.<br>
+◾ It fly far away from the warriors, shooting them with ignisium eyes, however it's size make it a very good target to shoot with a bow.<br>
+◾ Once killed, it drops the ignisium stashed in it's mouth, utilized to create it's projectiles. It may also, for some unknown reasons, 
+drop a disc of the music sang to babies in hope to turn them as heroic as the one who, riding a dinosaur, fighted the king of koopas.</p><br>
+<h2> Dolphin king</h2><br>
+<p>◆ Following deep researches, the scientific elves deduced that this specimen was, in fact, not a dolphin. Many theories exist, however the 
+one believed by most is that the dolphin king is a very inteligent type of factice which copied the look of dolphin in order to live among them.
+Because of it's size it's usually the leader of the dolphin group.<br>
+◾ It will swim towards the warriors and attack them, it may be a very smart life form it sure sucks at fighting.<br>
+◾ Sameas smaller factice, it will drop the aquatine constituing it's body. Sometimes, specimens eat discs dropped by the sacred train which was able to 
+travel underwater.</p><br>
+<h2> Spice </h2><br>
+<p>◆ The master of spiders, it lives very high up in the mountains, nourishing itself with the nutiments found in the snow. Not carnivorous,
+it only attack animals to protect itself. However, it uses the dead body of it's victim as fridges, filling them with snow to gain more nutriments.<br>
+◾ The more it's alive, the stronger it gets. In fact, the Spice spit powder snow on the warriors and slowing them thanks to the cold.<br>
+◾ As a last hope, the specimen froze it's body to death in order to make it's opponent unable to cultivate it's body, transforming it into crystallum.
+When a specimen commited a lot of murders, the anger of it's victims sometimes crystalize into a disc.</p><br>
+<h2> Unknown </h2><br>
+<p>◆ Unknown<br>
+◾ Unknown<br>
+◾ Unknown</p><br>
+<h2> Wing giant </h2><br>
+<p>◆Sometimes zombies get lost. Usually they end up in caves or in water, turning into drowned. However they sometimes, it's still unkwown as to how,
+end up in the floating islands found over some oceans. When this happens, the local caelums choose it as their leader, doing so they let the zombie borrow
+their wind powers. After usually a mont of co-existing, the zombie grew in size and learnt the ability to fly, becoming what is known as a wing giant.<br>
+◾ This specimen run as fast as possible toward the warriors, flying over any obstacles, and doing a lot of damage. It's natural habit is the air, 
+so as long as you stay on the ground, you should be alright.<br>
+◾ The ventuma is the cistalisation of wind magic. Wind giant having borrowed this power for a long time, it is only logic to find a lot it on 
+a wind giant corpse. When they are old enought, there's so many wind power in them that uppon dying they drop the emblematic theme of the so called
+wind mage, the first earthling who managed to utilise the wind power.</p><br>
+<h2> Fishnado </h2><br>
+<p>◆ No one ever figured what this specimen was. It look like a fish however it isn't material like any other organism. When happy, it
+take more of a pink tone to it and is as thin as light, you just can't toutch it. However, one angered, it get a more purple tone znd
+to materialise, now being able to be toutched.<br>
+◾ This flying entity is usually the last fight of warriors, believed to be as strong as a god this flying fish seems like untoutchable.
+It is believed to be the stupidest yet strongest of the bosses, as a result we know only a little about it's fighting pattern, that being
+it's method of attack : throwing salves of fulgurite balls, summoning lightning on the warriors so hard they seem to loose consciousness.<br>
+◾ A specimen only live for a short time, in conclusion it usually dies of natural causes, in a happy unmaterial state, leaving nothing behind.
+Only a few testimonies give us hints about what it leave in an angry state, apparenty it's death summon so many electricity it seems
+to condense itself into fulgurite, questioning ourselves on how this stone is actually created. In addition to that, this boss
+being usually the magnus opus of a warrior's carrer seems to congrats them with a pleasant and emotional disc.</p><br>
+<h2> Unknown </h2><br>
+<p>◆ Unknown<br>
+◾ Unknown <br>
+◾ Unknown </p><br>
+<h2 class="comic"> classified </h2><br>
+<p class="comic">◆ This specimen appeared when after the creation a reality rift caused by the merge of every classic bosses loot, souls, netherite and rainbow.
+ However the specimen created is too dangerous to study, trying to make us suffer because we k"illed it's brother".<br>
+◾ DO NOT SUMMON IN ANY CIRCONSTANCES. IT'S HIGH SPEED, STRENGHT AND HEALTH MAKE THIS SPECIMEN ALMOST INVICIBLE.<br>
+◾ Unknown </p><br>
+
 
 <ul>
-	<li><a href="elementalis_site.html">Home</a></li>
+	<li><a href="index.html">Home</a></li>
 	<li><a href="elementalis_server.html">The server</a></li>
 	<li><a class="active" href="elementalis_mod.html">The mod</a></li>
 	<li><a href="elementalis_plugin.html">The plugin</a></li>

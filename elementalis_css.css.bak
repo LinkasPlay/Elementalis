@@ -16,8 +16,16 @@ h2 {
 h3 {
 	font-size : 40px;
 	text-align : center;
-	color : #FF0000
+	color : #612626
 	}
+
+h4 {
+	font-size : 35px;
+	text-align : center;
+	text-decoration-line: underline;
+	color : #612626
+	}
+
 
 p {
 	font-size : 25px;
@@ -59,4 +67,14 @@ li a:hover {
 
 .bold {
 	text-decoration-line: underline;
+}
+
+.update {
+	font-size : 25px;
+	text-align : left;
+	font-family : serif;
+}
+
+.comic {
+	font-family : comic-sans;
 }
